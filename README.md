@@ -9,3 +9,6 @@ For getting started, you can also access my tutorial on medium at https://medium
 - Selenium => 3.141.0
 - BeautifulSoup (bs4) =>  0.0.1
 - requests => 2.18.4
+
+
+You will also a chromedriver which can be found [here](https://chromedriver.storage.googleapis.com/index.html?path=77.0.3865.40/)
