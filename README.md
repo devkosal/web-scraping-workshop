@@ -28,9 +28,11 @@ For getting started, you can also access my tutorial on medium at https://medium
 - requests => 2.18.4
 
 
-You may also need:
+- You may also need:
     - Selector Gadget for Chrome, found [here](https://chrome.google.com/webstore/detail/selectorgadget/)
     - (Optional) a chromedriver found [here](https://chromedriver.storage.googleapis.com/index.html?path=77.0.3865.40/)
+    
+Contact me on LinkedIn with any follow up Questions!
     
 
 
