@@ -10,7 +10,7 @@ This git provides supplemental code for my Scraping with Python Workshop at Colu
 
 
 - Google Chrome may be needed to follow along with this tutorial. 
-- *Install the Selector Gadget Extension for Chrome as well from [here](https://chrome.google.com/webstore/detail/selectorgadget/)*
+- *Install the Selector Gadget Extension for Chrome as well from [here](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb?hl=en)*
 - If you haven’t done already, download and install Anaconda Python 3.xx Version at:
     - https://www.anaconda.com/distribution
 - Next, use Terminal or Command Prompt to enter the following, one by one:
