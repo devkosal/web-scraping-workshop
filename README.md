@@ -17,6 +17,9 @@ This git provides supplemental code for my Scraping with Python Workshop at Colu
     - pip install bs4
     - pip install selenium
     - pip install requests
+    
+- http://htmlpreview.github.io/?https://github.com/devkosal/web-scraping-workshop/blob/master/Beautiful%20Soup.html   
+- http://htmlpreview.github.io/?https://github.com/devkosal/web-scraping-workshop/blob/master/Selenium.html
 
 For getting started, you can also access my tutorial on medium at https://medium.com/@devkosal/scraping-data-with-beautifulsoup-and-selectorgadget-in-python-3-decf798e1a1e
 
