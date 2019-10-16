@@ -32,7 +32,7 @@ For getting started, you can also access my tutorial on medium at https://medium
     - Selector Gadget for Chrome, found [here](https://chrome.google.com/webstore/detail/selectorgadget/)
     - (Optional) a chromedriver found [here](https://chromedriver.storage.googleapis.com/index.html?path=77.0.3865.40/)
     
-Contact me on LinkedIn with any follow up Questions!
+Contact me on [LinkedIn](https://www.linkedin.com/in/dev-sharma1/) with any follow up Questions!
     
 
 
