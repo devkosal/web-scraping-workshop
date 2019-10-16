@@ -1,4 +1,4 @@
-# scraping_tutorial
+# Web Scraping Tutorial
 
 This git provides supplemental code for my Scraping with Python Workshop at Columbia University. All relevant content for which can be found in the `Workshop_Slides_Python_Scraping` PDF file.
 
